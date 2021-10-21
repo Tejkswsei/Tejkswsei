@@ -1,3 +1,6 @@
+<h1 align="center">Hi 👋, I'm Szymon Armatys</h1>
+<h3 align="center">A passionate fullstack developer from Poland</h3>
+
 - 👋 Hi, I’m Szymon Armatys
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
